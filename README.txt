@@ -1,1 +1,2 @@
-This is the Hello World example from the git tutorial by Sasha Prihodko
+This is the Hello World example from the git tutorial by Sasha Prihodko.
+(изменен в оригинале)
